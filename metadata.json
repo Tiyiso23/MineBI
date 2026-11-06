@@ -1,0 +1,8 @@
+{
+  "name": "MineBI – Mining Business Intelligence Platform",
+  "description": "Centralised mining operational intelligence platform featuring executive KPI cards, production analytics with actual vs target tracking, equipment availability and downtime monitoring, maintenance logs, cost analysis, and AI-powered operational insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
